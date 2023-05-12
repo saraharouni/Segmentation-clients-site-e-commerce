@@ -4,6 +4,8 @@
 
 # Segmentation-clients-site-e-commerce
 
+Lien pour télécharger les données : https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
+
 Dans le cadre de la mission confiée par Olist, j'ai travaillé sur la **segmentation des clients de l'entreprise afin de fournir à l'équipe d'e-commerce des informations exploitables pour leurs campagnes de communication**. 
 
 Mon objectif était de comprendre les différents types d'utilisateurs en utilisant leurs comportements et leurs données personnelles.
